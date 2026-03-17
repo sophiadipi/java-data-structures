@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * OptimizedHeapSortDriver.java
 * 
 * The OptimizedHeapSortDriver class demonstrates the funcionality of the OptimizedHeapSort
