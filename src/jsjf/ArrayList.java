@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * ArrayList.java
 * 
 * ArrayList represents an array implementation of a list. The front of the list is kept at 
