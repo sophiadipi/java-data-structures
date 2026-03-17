@@ -1,8 +1,7 @@
 /********************************************************************************************
 * ArrayUnorderedList.java
 * 
-* ArrayUnorderedList represents an array implementation of an unordered list. From the course
-* textbook. 
+* ArrayUnorderedList represents an array implementation of an unordered list. 
 *********************************************************************************************/
 package jsjf;
 
