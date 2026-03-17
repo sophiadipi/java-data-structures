@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * HashTable.java
 * 
 * The HashTable class implements a hash table that maps 10-digit IBSN numbers to book names. 
