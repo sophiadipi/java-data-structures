@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * OptimizedHeapSort.java
 * 
 * The OptimizedHeapSort class implements an optimized version of the heap sorting algorithm 
