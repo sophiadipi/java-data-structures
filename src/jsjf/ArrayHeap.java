@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * ArrayHeap.java
 * 
 * ArrayHeap provides an array implementation of a minheap. From the course textbook.
