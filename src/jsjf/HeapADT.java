@@ -4,7 +4,7 @@
 *
 * HeapADT.java
 * 
-* HeapADT defines the interface to a heap. From the course textbook.
+* HeapADT defines the interface to a heap. 
 *********************************************************************************************/
 package jsjf;
 
