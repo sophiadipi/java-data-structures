@@ -1,7 +1,7 @@
 /********************************************************************************************
 * ArrayHeap.java
 * 
-* ArrayHeap provides an array implementation of a minheap. From the course textbook.
+* ArrayHeap provides an array implementation of a minheap.
 *********************************************************************************************/
 
 package jsjf;
