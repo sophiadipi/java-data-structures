@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * BinaryTreeADT.java
 * 
 * BinaryTreeADT defines the interface to a binary tree data structure. From the course
