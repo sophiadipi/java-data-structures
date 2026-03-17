@@ -1,11 +1,8 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * ListADT.java
 * 
 * ListADT defines the interface to a general list collection. Specific types of lists will 
-* extend this interface to complete the set of necessary operations. From the course textbook.
+* extend this interface to complete the set of necessary operations. 
 *********************************************************************************************/
 package jsjf;
 
