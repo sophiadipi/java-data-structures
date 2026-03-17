@@ -2,7 +2,7 @@
 * UnorderedListADT.java
 * 
 * UnorderedListADT defines the interface to an unordered list collection. Elements are stored 
-* in any order the user desires. From the course textbook.
+* in any order the user desires.
 *********************************************************************************************/
 
 package jsjf;
