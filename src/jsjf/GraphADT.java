@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * GraphADT.java
 * 
 * GraphADT defines the interface to a graph data structure. From the course textbook.
