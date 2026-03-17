@@ -1,0 +1,23 @@
+/********************************************************************************************
+* Sophia DiPietro (T00714296)
+* 11/22/2024
+*
+* UnorderedListADT.java
+* 
+* UnorderedListADT defines the interface to an unordered list collection. Elements are stored 
+* in any order the user desires. From the course textbook.
+*********************************************************************************************/
+
+package jsjf;
+
+public interface UnorderedListADT<T> extends ListADT<T>
+{
+	/* Adds the specified element to the front of this list. */
+	public void addToFront(T element);  
+
+	/* Adds the specified element to the rear of this list. */
+	public void addToRear(T element); 
+
+	/* Adds the specified element after the specified target. */
+	public void addAfter(T element, T target);
+}
