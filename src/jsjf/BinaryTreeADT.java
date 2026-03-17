@@ -1,8 +1,7 @@
 /********************************************************************************************
 * BinaryTreeADT.java
 * 
-* BinaryTreeADT defines the interface to a binary tree data structure. From the course
-* textbook.
+* BinaryTreeADT defines the interface to a binary tree data structure. 
 *********************************************************************************************/
 package jsjf;
 
