@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * ArrayUnorderedList.java
 * 
 * ArrayUnorderedList represents an array implementation of an unordered list. From the course
