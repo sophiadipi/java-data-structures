@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/21/2024
-*
 * Graph.java
 * 
 * The Graph class implements an undirected, unweighted graph using an adjacency matrix. It
