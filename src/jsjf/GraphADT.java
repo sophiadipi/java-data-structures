@@ -1,7 +1,7 @@
 /********************************************************************************************
 * GraphADT.java
 * 
-* GraphADT defines the interface to a graph data structure. From the course textbook.
+* GraphADT defines the interface to a graph data structure.
 *********************************************************************************************/
 package jsjf;
 
