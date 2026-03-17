@@ -1,7 +1,4 @@
 /********************************************************************************************
-* Sophia DiPietro (T00714296)
-* 11/22/2024
-*
 * UnorderedListADT.java
 * 
 * UnorderedListADT defines the interface to an unordered list collection. Elements are stored 
